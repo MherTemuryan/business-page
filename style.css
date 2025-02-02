@@ -21,7 +21,7 @@ position:relative;
 #logo {
 width:257px;
 height:92px;
-background-image: url(../images/logo.png);
+background-image: url(images/logo.png);
 background-repeat:no-repeat;
 position:absolute;
 top:30px;
